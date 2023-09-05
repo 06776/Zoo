@@ -10,7 +10,7 @@ public class Kert {
         macska.hangotad("Miau...");
         macska.dorombol();
         // macska.nev = "";
-        macska.nevBeallitas("");
-        // System.out.println(macska.nev);
+        macska.nevBeallitas("aaa");
+        System.out.println(macska.nevLeker());
     }
 }
